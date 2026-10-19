@@ -4,6 +4,7 @@
 // @version      1.0.0
 // @match        https://oc.utlog.net/*
 // @downloadURL  https://raw.githubusercontent.com/COD-Province/Auto-Checkbox/main/auto-checkbox.user.js
+// @updateURL    https://raw.githubusercontent.com/COD-Province/Auto-Checkbox/main/auto-checkbox.user.js
 // @grant        GM_registerMenuCommand
 // @author       The COD Department
 // ==/UserScript==
